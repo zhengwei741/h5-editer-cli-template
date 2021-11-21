@@ -1,0 +1,14 @@
+{
+  "name": "iop-cli-vue2-standard-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iop-cli-vue2-standard-template": "^1.0.0"
+  }
+}
